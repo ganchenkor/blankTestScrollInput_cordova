@@ -1,0 +1,25 @@
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/ant-build/blackTestInput.ap_ \
+ : /Users/grunz/Repos/boilterplates/blankProject/platforms/android/res/drawable/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/res/drawable-hdpi/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/res/drawable-ldpi/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/res/drawable-mdpi/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/res/values/strings.xml \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/res/xml/config.xml \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/ant-build/res/drawable/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/_where-is-www.txt \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/cordova.js \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/cordova_plugins.js \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/css \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/img \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/index.html \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/js \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/css/index.css \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/img/logo.png \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/assets/www/js/index.js \
+/Users/grunz/Repos/boilterplates/blankProject/platforms/android/ant-build/AndroidManifest.xml \
